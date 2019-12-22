@@ -1,8 +1,8 @@
 [
-	["WHEN?", "SlateBlue"],
+	["WHEN?", "cornflowerblue"],
 	["WHERE?", "cornflowerblue"],
 	["WHY?", "cornflowerblue"],
-	["TALK?", "cornflowerblue"],
+	["TALK?", "SlateBlue"],
 	["HUNGRY?", "tomato"],
 	["COFFEE?", "Sienna"],
 	["BEER?", "yellow"],
@@ -15,13 +15,12 @@
 	["I'M OUT!", "crimson"],
 	
     ["GREAT!", "cyan"],
-    ["THANKS!", "cyan"],
+    ["THANKS!", "orange"],
     ["OMG!", "cyan"],
+    ["WTF!", "yellow"],
     ["SHIT!", "tomato"],
     ["SORRY!", "orange"],
 	["SWEET!", "pink"],
-	["LOVE YOU!", "violet"],
-	["GREAT!", "DodgerBlue"],
-	["THANKS!", "DodgerBlue"],
-	["BYE", "violet"]
+	["LOVE YOU", "violet"],
+	["BYE", "gray"]
 ]
