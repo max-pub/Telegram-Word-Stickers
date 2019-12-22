@@ -1,8 +1,16 @@
 [
 	["WHERE?", "cornflowerblue"],
-	["WHEN?", "darkorange"],
+	["WHEN?", "SlateBlue"],
 	["WHY?", "tomato"],
-	["HUNGRY?", "violet"],
-    ["GREAT!", "crimson"],
-    ["BYE", "MediumSeaGreen"]
+	["HUNGRY?", "orange"],
+	["GREAT!", "DodgerBlue"],
+	
+    ["OK!", "MediumSeaGreen"],
+	["YES!", "MediumSeaGreen"],
+	
+	["NO!", "crimson"],
+	["NO TIME!", "crimson"],
+	["I'M OUT!", "crimson"],
+	
+    ["BYE", "violet"]
 ]
