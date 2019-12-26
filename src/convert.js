@@ -18,5 +18,5 @@ for (let word of words) {
 			console.log(err)
 		})
 }
-FS.writeFileSync('../index.html',icons.join('\n'));
+FS.writeFileSync('../index.html',`<link rel="stylesheet" type="text/css" href="../base.css">\n`+'<main>\n'+icons.join('\n')+'</main>\n');
 // https://www.w3schools.com/colors/colors_names.asp

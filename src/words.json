@@ -5,7 +5,9 @@
 	["TALK?", "SlateBlue"],
 	["HUNGRY?", "tomato"],
 	["COFFEE?", "Sienna"],
-	["BEER?", "yellow"],
+	["BEER?", "darkorange"],
+	["SPIKE?", "yellow"],
+	["BEACH?", "yellow"],
 	
     ["OK!", "MediumSeaGreen"],
 	["YES!", "MediumSeaGreen"],
@@ -14,13 +16,14 @@
 	["NO TIME!", "crimson"],
 	["I'M OUT!", "crimson"],
 	
-    ["GREAT!", "cyan"],
-    ["THANKS!", "orange"],
+    ["GREAT!", "gold"],
+    ["THANKS!", "gold"],
     ["OMG!", "cyan"],
-    ["WTF!", "yellow"],
+    ["WTF!?", "tomato"],
     ["SHIT!", "tomato"],
     ["SORRY!", "orange"],
 	["SWEET!", "pink"],
 	["LOVE YOU", "violet"],
-	["BYE", "gray"]
+	["BYE", "gray"],
+	["SEE YOU", "silver"]
 ]
